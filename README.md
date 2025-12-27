@@ -28,7 +28,7 @@ Run setup.sql to create tables and sample data
 4.Create a .env file with your database credentials:
 ```bash
 DB_USER=postgres
-DB_PASSWORD=dolphins
+DB_PASSWORD=whateveruwant
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=world
